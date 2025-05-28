@@ -1,0 +1,1 @@
+This project involves building a Power BI dashboard for healthcare data analysis. The dashboard provides insights into key metrics such as patient statistics, resource allocation, and facility performance.
